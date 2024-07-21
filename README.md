@@ -1,6 +1,6 @@
 # pagepal_app
 
-A new Flutter project.
+A Flutter project to learning create ebook app.
 
 ## Getting Started
 
